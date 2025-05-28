@@ -11,4 +11,4 @@ Visualization of Levenshtein distance applied to 10 languages.
 
 Jupyter Notebooks to explore the Levenshtein distance interactively.
 
-Blog post:
+Blog post: https://www.linkedin.com/posts/activity-7333582386695196676-GqSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTbERsBPXcyN8Hc-Kc6Ngz62LKG4TCiWSs
